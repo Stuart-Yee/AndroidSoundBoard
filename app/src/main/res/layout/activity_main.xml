@@ -19,6 +19,8 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.1" />
 
+    <!-- function targeted by this button via android:onClick-->
+    <!-- button identified in function by tag via android:tag -->
     <Button
         android:id="@+id/eat"
         android:layout_width="wrap_content"
